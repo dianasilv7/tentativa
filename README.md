@@ -1,3 +1,3 @@
-# tentativa
-# Primeira tentativa de refazer o primeiro site
+# Tentativa
+# Primeira Tentativa de refazer o primeiro site
 Aprender a Programar 
